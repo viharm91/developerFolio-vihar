@@ -23,7 +23,7 @@ const greeting = {
   username: "Vihar Manchala",
   title: "Hi all, I'm Vihar Manchala",
   subTitle: emoji(
-    "A Software Engineering Lead & Architect of backend systems | Passionate Mentor | Author| Speaker & Event Judge"
+    "An innovative lead architect software engineer with 10 years of experience in designing, developing, and maintaining operationally performant software applications and platforms. Skilled in software architecture, system planning, deployment, and infrastructure management. Expertise in performance optimization and continuous improvement."
   ),
   resumeLink:
     "", // Set to empty to hide the button
@@ -150,7 +150,7 @@ const educationInfo = {
 // Your top 3 proficient stacks/tech experience
 
 const techStack = {
-  viewSkillBars: true, //Set it to true to show Proficiency Section
+  viewSkillBars: false, //Set it to true to show Proficiency Section
   experience: [
     {
       Stack: "Frontend/Design", //Insert stack or technology you have experience in
