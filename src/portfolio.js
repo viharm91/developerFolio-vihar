@@ -178,21 +178,19 @@ const workExperiences = {
       date: "July 2021 – Present",
       desc: "",
       descBullets: [
-        "",
-        ""
       ]
     },
     {
       role: "Systems Analyst/Associate Software Engineer/Software Engineer",
       company: "Carfax",
-      companylogo: require("./assets/images/quoraLogo.png"),
+      companylogo: require("./assets/images/carfax_logo.png"),
       date: "June 2016 – July 2021",
       desc: ""
     },
     {
       role: "System Analyst",
       company: "Sonata Software",
-      companylogo: require("./assets/images/airbnbLogo.png"),
+      companylogo: require("./assets/images/sonata_logo.png"),
       date: "July 2012 – Dec 2014",
       desc: ""
     }
@@ -237,7 +235,7 @@ const bigProjects = {
       ]
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Achievement Section
