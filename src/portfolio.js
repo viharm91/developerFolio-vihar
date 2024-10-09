@@ -132,8 +132,6 @@ const educationInfo = {
       duration: "January 2015 - May 2016",
       desc: "",
       descBullets: [
-        "",
-        ""
       ]
     },
     {
@@ -142,7 +140,7 @@ const educationInfo = {
       subHeader: "Bachelor of Science",
       duration: "Aug 2008 - April 2012",
       desc: "",
-      descBullets: [""]
+      descBullets: []
     }
   ]
 };
