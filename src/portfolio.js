@@ -174,7 +174,7 @@ const workExperiences = {
     {
       role: "Software Engineer III/ Senior Software Engineer",
       company: "Walmart Global Technology",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      companylogo: require("./assets/images/Walmart_logo.png"),
       date: "July 2021 – Present",
       desc: "",
       descBullets: [
