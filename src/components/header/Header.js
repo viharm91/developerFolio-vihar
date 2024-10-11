@@ -48,7 +48,7 @@ function Header() {
           )}
           {viewOpenSource && (
             <li>
-              <a href="#education-card">Education</a>
+              <a href="#education">Education</a>
             </li>
           )}
           {viewExperience && (
