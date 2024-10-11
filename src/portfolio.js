@@ -242,30 +242,18 @@ const bigProjects = {
 // Include certificates, talks etc
 
 const achievementSection = {
-  title: emoji("Achievements And Certifications 🏆 "),
+  title: emoji("Awards 🏆 "),
   subtitle:
-    "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
+    "Awards Recived for the technical, and the business impact in organizations!",
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "Technical Excellence award @ Walmart Global Tech",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
+        "The Technical Excellence Award is a prestigious recognition granted to individuals or teams who have made a significant technical impact on a product or solution. This award celebrates innovation, mastery, and the application of advanced technologies. Recipients of this award demonstrate deep technical expertise, a commitment to quality, and an ability to leverage cutting-edge methodologies to drive tangible results that advance the state of the art in their field.",
       image: require("./assets/images/codeInLogo.webp"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
-        {
-          name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
-        },
-        {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
-        }
       ]
     },
     {
