@@ -248,10 +248,10 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Technical Excellence award @ Walmart Global Tech",
+      title: "Technical Excellence award @ Walmart Global Tech - Apr 2024",
       subtitle:
         "The Technical Excellence Award is a prestigious recognition granted to individuals or teams who have made a significant technical impact on a product or solution. This award celebrates innovation, mastery, and the application of advanced technologies. Recipients of this award demonstrate deep technical expertise, a commitment to quality, and an ability to leverage cutting-edge methodologies to drive tangible results that advance the state of the art in their field.",
-      image: require("./assets/images/codeInLogo.webp"),
+      image: require("./assets/images/Walmart_logo.png"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
       ]
