@@ -261,13 +261,13 @@ const achievementSection = {
       subtitle:
         "The Bravo Award recognizes engineers who go above and beyond in their work, demonstrating exceptional dedication and achievement. This award celebrates individuals who consistently exceed expectations, contribute to the success of projects, and deliver outstanding results through their technical skills, problem-solving abilities, and proactive efforts.",
       image: require("./assets/images/Walmart_logo.png"),
-      imageAlt: "Google Assistant Action Logo",
+      imageAlt: "Google Assistant Action Logo"
       // footerLink: [
       //   {
       //     name: "View Google Assistant Action",
       //     url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
       //   }
-      ]
+      // ]
     },
 
     {
