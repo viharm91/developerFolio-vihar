@@ -248,7 +248,7 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Technical Excellence award @ Walmart Global Tech - Apr 2024",
+      title: "Technical Excellence Award @ Walmart Global Tech - Apr 2024",
       subtitle:
         "The Technical Excellence Award is a prestigious recognition granted to individuals or teams who have made a significant technical impact on a product or solution. This award celebrates innovation, mastery, and the application of advanced technologies. Recipients of this award demonstrate deep technical expertise, a commitment to quality, and an ability to leverage cutting-edge methodologies to drive tangible results that advance the state of the art in their field.",
       image: require("./assets/images/Walmart_logo.png"),
@@ -257,30 +257,30 @@ const achievementSection = {
       ]
     },
     {
-      title: "Google Assistant Action",
+      title: "Bravo Award @ Walmart Global Tech - Jan 2023, Aug 2022, Dec 2021",
       subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
+        "The Bravo Award recognizes engineers who go above and beyond in their work, demonstrating exceptional dedication and achievement. This award celebrates individuals who consistently exceed expectations, contribute to the success of projects, and deliver outstanding results through their technical skills, problem-solving abilities, and proactive efforts.",
+      image: require("./assets/images/Walmart_logo.png"),
       imageAlt: "Google Assistant Action Logo",
-      footerLink: [
-        {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
-        }
+      // footerLink: [
+      //   {
+      //     name: "View Google Assistant Action",
+      //     url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+      //   }
       ]
     },
 
     {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
+      title: "Spot Award @ Carfax - Nov 2020",
+      subtitle: "A Spot Award is a recognition given spontaneously to reward outstanding performance or contributions on the spot. It is typically granted for exceptional achievements or efforts that go beyond regular job expectations, such as solving a critical problem, delivering a project ahead of schedule, or demonstrating exemplary teamwork.",
+      image: require("./assets/images/carfax_logo.png"),
       imageAlt: "PWA Logo",
       footerLink: [
-        {name: "Certification", url: ""},
-        {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
-        }
+        // {name: "Certification", url: ""},
+        // {
+          // name: "Final Project",
+          // url: "https://pakistan-olx-1.firebaseapp.com/"
+        // }
       ]
     }
   ],
