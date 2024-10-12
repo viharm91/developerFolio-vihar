@@ -296,16 +296,10 @@ const blogSection = {
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
+      url: "https://medium.com/p/86f9aabb19dc",
+      title: "The Hidden Cost of Frequent Kafka Consumer Commits",
       description:
-        "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
-    },
-    {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Best?",
-      description:
-        "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+        "Kafka has revolutionized real-time data processing with its distributed messaging system, but its efficiency heavily relies on how consumers interact with data. One common practice among developers is frequent consumer commits, yet this seemingly innocuous action can have significant implications on system performance and stability."
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -314,17 +308,21 @@ const blogSection = {
 // Talks Sections
 
 const talkSection = {
-  title: "TALKS",
+  title: "Speaker Sessions",
   subtitle: emoji(
-    "I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A SPEAKER BADGE 😅"
+    "Love to share insights as an industry expert: Harnessing Innovation, AI Integration, and Best Practices for Building Scalable, Secure Software Solutions."
   ),
 
   talks: [
     {
-      title: "Build Actions For Google Assistant",
-      subtitle: "Codelab at GDG DevFest Karachi 2019",
-      slides_url: "https://bit.ly/saadpasta-slides",
-      event_url: "https://www.facebook.com/events/2339906106275053/"
+      title: "Talking AI 2024 - AI & Retail",
+      subtitle: "A discussion on building and retaining engineering talent in AI, with a lens on the retail industry experts.",
+      event_url: "https://www.wework.com/info/talking-ai-nyc?utm_medium=email&utm_source=external_partner_email&utm_campaign=202408-GLOBAL-GLOBAL-ALL-None-NYC_TalkingAI_Event_2024_Intellibus_Partner&SFID="
+    },
+    {
+      title: "Black is Tech - Billion Number Traffic: Engineering a reliable system",
+      subtitle: "A talk on building a reliable system to process a system with billion transactions or events.",
+      event_url: "https://blackistechconference.com/speaker/vihar-manchala/"
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -340,7 +338,7 @@ const podcastSection = {
   podcast: [
     "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Resume Section
