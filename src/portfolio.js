@@ -172,7 +172,7 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer III/ Senior Software Engineer",
+      role: "Staff Software Engineer",
       company: "Walmart Global Technology",
       companylogo: require("./assets/images/Walmart_logo.png"),
       date: "July 2021 – Present",
@@ -181,7 +181,7 @@ const workExperiences = {
       ]
     },
     {
-      role: "Systems Analyst/Associate Software Engineer/Software Engineer",
+      role: "Software Engineer",
       company: "Carfax",
       companylogo: require("./assets/images/carfax_logo.png"),
       date: "June 2016 – July 2021",
