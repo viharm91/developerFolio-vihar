@@ -172,7 +172,7 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Staff Software Engineer",
+      role: "Engineering Leader",
       company: "Walmart Global Technology",
       companylogo: require("./assets/images/Walmart_logo.png"),
       date: "July 2021 – Present",
